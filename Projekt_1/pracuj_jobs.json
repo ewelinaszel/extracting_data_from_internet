@@ -1,0 +1,938 @@
+[
+    {
+        "id": 1,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/specjalista-baz-danych-krakow-wladyslawa-zelenskiego-103,oferta,1003265387",
+        "position": "Specjalista baz danych",
+        "company": "dmt Software House Sp. z o.o.",
+        "min_salary": 12000,
+        "max_salary": 16000,
+        "currency": "z\u0142",
+        "skills": [
+            "SQL",
+            "PL/SQL",
+            "T-SQL",
+            "Linux",
+            "Windows Server"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 2,
+        "source": "pracuj.pl",
+        "link": "https://pracodawcy.pracuj.pl/company/20377151",
+        "position": "Data Engineer",
+        "company": "Addepto",
+        "min_salary": 18000,
+        "max_salary": 28560,
+        "currency": "z\u0142",
+        "skills": [
+            "Apache Spark",
+            "Cloudera",
+            "Data platform",
+            "Airflow",
+            "Databricks",
+            "Docker",
+            "Kubernetess",
+            "Python"
+        ],
+        "category": null,
+        "seniority": null
+    },
+    {
+        "id": 3,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/scala-big-data-developer-warszawa-przyokopowa-33,oferta,1003228073",
+        "position": "Scala & Big Data Developer",
+        "company": "Jit Team sp. z o.o.",
+        "min_salary": 19000,
+        "max_salary": 25200,
+        "currency": "z\u0142",
+        "skills": [
+            "Scala",
+            "Spark",
+            "Hadoop",
+            "Impala",
+            "Jenkins",
+            "Jira",
+            "Git",
+            "Bitbucket"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 4,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-data-engineer-krakow,oferta,1003273833",
+        "position": "Senior Data Engineer",
+        "company": "Mindbox S.A.",
+        "min_salary": 26000,
+        "max_salary": 31000,
+        "currency": "z\u0142",
+        "skills": [],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 5,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-software-engineer-java-scala-krakow-jana-dekerta-24,oferta,1003270865",
+        "position": "Senior Software Engineer (Java/ Scala)",
+        "company": "HERE Technologies",
+        "min_salary": 15000,
+        "max_salary": 33600,
+        "currency": "z\u0142",
+        "skills": [
+            "Java",
+            "Scala",
+            "SQL",
+            "Apache Spark",
+            "Hadoop",
+            "AWS",
+            "GitLab"
+        ],
+        "category": "Backend, Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 6,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-architect-azure-wroclaw,oferta,1003227927",
+        "position": "Data Architect (Azure)",
+        "company": "Scalo Sp. z o.o.",
+        "min_salary": 26880,
+        "max_salary": 31080,
+        "currency": "z\u0142",
+        "skills": [
+            "Azure Cloud",
+            "Azure DevOps",
+            "Python",
+            "Spark",
+            "SQL",
+            "T-SQL",
+            "PowerBI",
+            "Qlik",
+            "Agile"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 7,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/cobol-developer-warszawa,oferta,1003222123",
+        "position": "COBOL Developer",
+        "company": "SYSTEM VERIFICATION POLAND sp. z o.o.",
+        "min_salary": 200,
+        "max_salary": 220,
+        "currency": "z\u0142",
+        "skills": [
+            "COBOL",
+            "IMS",
+            "DB2",
+            "Changeman",
+            "z/OS Operating System (Aqua)"
+        ],
+        "category": "Backend, Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 8,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/programista-hurtowni-danych-warszawa,oferta,1003275501",
+        "position": "Programista Hurtowni Danych",
+        "company": "Connectis_",
+        "min_salary": 23000,
+        "max_salary": 28000,
+        "currency": "z\u0142",
+        "skills": [
+            "SQL",
+            "Microsoft SQL Server"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 9,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-data-engineer-with-java-warszawa-pulawska-182,oferta,1003221250",
+        "position": "Senior Data Engineer with Java",
+        "company": "ACAISOFT POLAND Sp. z o.o.",
+        "min_salary": 21000,
+        "max_salary": 30000,
+        "currency": "z\u0142",
+        "skills": [
+            "Java",
+            "AWS",
+            "Kafka",
+            "Spark"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 10,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-engineer-krakow,oferta,1003272433",
+        "position": "Data Engineer",
+        "company": "Mindbox S.A.",
+        "min_salary": 27000,
+        "max_salary": 34000,
+        "currency": "z\u0142",
+        "skills": [
+            "Apache Hadoop",
+            "Scala",
+            "Apache Spark",
+            "YARN",
+            "Hive",
+            "SQL",
+            "Spark",
+            "Git",
+            "GitHub",
+            "Ansible"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 11,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-datastage-developer-gdansk,oferta,1003245911",
+        "position": "Senior DataStage Developer",
+        "company": "Be in IT",
+        "min_salary": 150,
+        "max_salary": 170,
+        "currency": "z\u0142",
+        "skills": [
+            "SQL",
+            "Microsoft Power BI",
+            "Cognos"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 12,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/lead-data-engineer-aws-wroclaw,oferta,1003248419",
+        "position": "Lead Data Engineer (AWS)",
+        "company": "Scalo Sp. z o.o.",
+        "min_salary": 170,
+        "max_salary": 190,
+        "currency": "z\u0142",
+        "skills": [
+            "AWS",
+            "Python",
+            "DynamoDB"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 13,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-analyst-sap-lodz,oferta,1003262255",
+        "position": "Data Analyst SAP",
+        "company": "JellyTech",
+        "min_salary": 14000,
+        "max_salary": 17600,
+        "currency": "z\u0142",
+        "skills": [
+            "BI",
+            "SAP",
+            "DWH"
+        ],
+        "category": "Big Data / Data Science, Business analytics",
+        "seniority": "senior"
+    },
+    {
+        "id": 14,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa,oferta,1003271506",
+        "position": "Senior Data Engineer",
+        "company": "EndySoft",
+        "min_salary": 17000,
+        "max_salary": 22000,
+        "currency": "z\u0142",
+        "skills": [
+            "Snowflake Data Cloud",
+            "SQL",
+            "Google Cloud Platform",
+            "Git",
+            "Jira",
+            "Confluence",
+            "AWS"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 15,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/scala-big-data-developer-warszawa,oferta,1003237500",
+        "position": "Scala & Big Data Developer",
+        "company": "Novaris Sp. z o.o.",
+        "min_salary": 19000,
+        "max_salary": 32000,
+        "currency": "z\u0142",
+        "skills": [
+            "Scala",
+            "Apache Spark"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 16,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa-zabkowska-31,oferta,1003271242",
+        "position": "Senior Data Engineer",
+        "company": "ARDURA Consulting",
+        "min_salary": 165,
+        "max_salary": 190,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Java",
+            "Scala",
+            "Hadoop",
+            "Spark",
+            "Kafka",
+            "SQL"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 17,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-engineer-warszawa-zabkowska-31,oferta,1003271219",
+        "position": "Data Engineer",
+        "company": "ARDURA Consulting",
+        "min_salary": 115,
+        "max_salary": 125,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "SQL",
+            "Google Cloud Platform",
+            "BigQuery",
+            "Snowflake"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 18,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/big-data-infrastructure-engineer-gdynia-luzycka-8c,oferta,1003225849",
+        "position": "Big Data Infrastructure Engineer",
+        "company": "Jit Team sp. z o.o.",
+        "min_salary": 17100,
+        "max_salary": 25200,
+        "currency": "z\u0142",
+        "skills": [
+            "Linux",
+            "Bash",
+            "AAP",
+            "Azure",
+            "AWS",
+            "Python",
+            "Hadoop"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 19,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/snowflake-engineer-data-engineer-warszawa,oferta,1003251294",
+        "position": "Snowflake Engineer - Data Engineer",
+        "company": "Novaris Sp. z o.o.",
+        "min_salary": 16000,
+        "max_salary": 26000,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Snowflake Data Cloud",
+            "AWS",
+            "Microsoft Azure"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 20,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/spark-engineer-krakow-samuela-bogumila-lindego-1c,oferta,1003270711",
+        "position": "Spark Engineer",
+        "company": "TIDK sp. z o.o.",
+        "min_salary": 7000,
+        "max_salary": 19000,
+        "currency": "z\u0142",
+        "skills": [
+            "Apache Spark",
+            "Microsoft Azure"
+        ],
+        "category": "sta\u00c5\u0082a podstawa wynagrodzenia + sta\u00c5\u0082a premia (np. kwartalna, roczna)",
+        "seniority": "senior"
+    },
+    {
+        "id": 21,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-engineer-krakow-samuela-bogumila-lindego-1c,oferta,1003270610",
+        "position": "Data Engineer",
+        "company": "TIDK sp. z o.o.",
+        "min_salary": 7000,
+        "max_salary": 19000,
+        "currency": "z\u0142",
+        "skills": [
+            "Microsoft Azure",
+            "Databricks",
+            "Microsoft Power BI",
+            "Python"
+        ],
+        "category": "sta\u00c5\u0082a podstawa wynagrodzenia + sta\u00c5\u0082a premia (np. kwartalna, roczna)",
+        "seniority": "senior"
+    },
+    {
+        "id": 22,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/platform-engineer-sre-warszawa-mokotowska-49,oferta,1003267541",
+        "position": "Platform Engineer / SRE",
+        "company": "Harvey Nash Technology Sp. z o.o.",
+        "min_salary": 150,
+        "max_salary": 190,
+        "currency": "z\u0142",
+        "skills": [
+            "Linux",
+            "CentOS",
+            "Ubuntu",
+            "Ansible",
+            "Gitlab",
+            "SQL",
+            "KQL",
+            "SPL",
+            "Elasticsearch"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 23,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/software-engineer-ii-data-and-storage-services-warszawa-koszykowa-61,oferta,1003232875",
+        "position": "Software Engineer II (Data and Storage Services)",
+        "company": "Affirm",
+        "min_salary": 18840,
+        "max_salary": 23550,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Apache Spark",
+            "Kubernetes",
+            "MySQL",
+            "AWS"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 24,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-engineer-krakow,oferta,1003243733",
+        "position": "Data Engineer",
+        "company": "ITDS Polska Sp. z o.o.",
+        "min_salary": 20160,
+        "max_salary": 26040,
+        "currency": "z\u0142",
+        "skills": [
+            "Google BigQuery",
+            "SQL",
+            "T-SQL",
+            "Google Cloud Platform",
+            "Ansible",
+            "Jenkins",
+            "Puppet",
+            "Chef",
+            "GitHub"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 25,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/sql-server-administrator-lead-poznan-glogowska-31,oferta,1003229298",
+        "position": "SQL Server Administrator & Lead",
+        "company": "summ-it s.a.",
+        "min_salary": 14000,
+        "max_salary": 20000,
+        "currency": "z\u0142",
+        "skills": [
+            "Microsoft SQL Server",
+            "T-SQL"
+        ],
+        "category": "Big Data / Data Science, Project Management",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 26,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/moody-s-regulatory-reporting-technical-liquidity-risk-krakow,oferta,1003220472",
+        "position": "Moody\u2019s Regulatory Reporting Technical \u2013 Liquidity Risk",
+        "company": "Fusion Practices",
+        "min_salary": 15000,
+        "max_salary": 27000,
+        "currency": "z\u0142",
+        "skills": [
+            "Oracle",
+            "SQL",
+            "PL/SQL",
+            "COREP",
+            "Regulatory reporting",
+            "Liquidity risk",
+            "Moody's regulatory reporting"
+        ],
+        "category": "Big Data / Data Science, SAP&ERP",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 27,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/moody-s-regulatory-reporting-functional-liquidity-risk-krakow,oferta,1003220471",
+        "position": "Moody\u2019s Regulatory Reporting Functional \u2013 Liquidity Risk",
+        "company": "Fusion Practices",
+        "min_salary": 15000,
+        "max_salary": 27000,
+        "currency": "z\u0142",
+        "skills": [
+            "SQL",
+            "Moodys regulatory reporting",
+            "Regulatory reporting",
+            "Liquidity risk"
+        ],
+        "category": "Big Data / Data Science, SAP&ERP",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 28,
+        "source": "pracuj.pl",
+        "link": "https://pracodawcy.pracuj.pl/company/20005890",
+        "position": "Administrator baz danych Oracle",
+        "company": "Cyclad",
+        "min_salary": 15000,
+        "max_salary": 19000,
+        "currency": "z\u0142",
+        "skills": [
+            "Oracle"
+        ],
+        "category": null,
+        "seniority": null
+    },
+    {
+        "id": 29,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-software-engineer-data-and-storage-services-warszawa-koszykowa-61,oferta,1003248204",
+        "position": "Senior Software Engineer (Data and Storage Services)",
+        "company": "Affirm",
+        "min_salary": 22042,
+        "max_salary": 27550,
+        "currency": "z\u0142",
+        "skills": [],
+        "category": "Big Data / Data Science, DevOps",
+        "seniority": "senior"
+    },
+    {
+        "id": 30,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-scientist-wroclaw-wagonowa-2d,oferta,1003235311",
+        "position": "Data Scientist",
+        "company": "Zone IT Sp. z o.o.",
+        "min_salary": 17000,
+        "max_salary": 32000,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Machine Learning"
+        ],
+        "category": "AI/ML, Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 31,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/sql-specialist-wroclaw-wagonowa-2d,oferta,1003235310",
+        "position": "SQL Specialist",
+        "company": "Zone IT Sp. z o.o.",
+        "min_salary": 8000,
+        "max_salary": 14000,
+        "currency": "z\u0142",
+        "skills": [
+            "SQL",
+            "Java"
+        ],
+        "category": "Big Data / Data Science, Game dev",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 32,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/snowflake-engineer-data-engineer-warszawa,oferta,1003246128",
+        "position": "Snowflake Engineer - Data Engineer",
+        "company": "Novaris Sp. z o.o.",
+        "min_salary": 16000,
+        "max_salary": 26000,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Snowflake Data Cloud",
+            "AWS",
+            "Microsoft Azure"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 33,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/etl-ipc-developer-warszawa,oferta,1003223789",
+        "position": "ETL/IPC Developer",
+        "company": "7N Sp. z o.o.",
+        "min_salary": 21000,
+        "max_salary": 22680,
+        "currency": "z\u0142",
+        "skills": [
+            "SQL",
+            "PL/SQL",
+            "Oracle",
+            "Informatica PowerCenter"
+        ],
+        "category": "Architecture, Backend, Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 34,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/junior-data-engineer-warszawa-lucka-15,oferta,1003245520",
+        "position": "Junior Data Engineer",
+        "company": "P&P Solutions Sp. z o.o.",
+        "min_salary": 140,
+        "max_salary": 140,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Pandas",
+            "Pyspark",
+            "Numpy",
+            "SQL",
+            "Git",
+            "PowerBI",
+            "Tableau"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "junior"
+    },
+    {
+        "id": 35,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa-lucka-15,oferta,1003245522",
+        "position": "Senior Data Engineer",
+        "company": "P&P Solutions Sp. z o.o.",
+        "min_salary": 200,
+        "max_salary": 200,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Pandas",
+            "Pyspark",
+            "Numpy",
+            "SQL",
+            "Git",
+            "PowerBI",
+            "Tableau",
+            "Azure SQL"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 36,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/master-data-management-analyst-krakow-lubicz-23,oferta,1003245044",
+        "position": "Master Data Management Analyst",
+        "company": "Sylvamo GBSC",
+        "min_salary": 11700,
+        "max_salary": 14300,
+        "currency": "z\u0142",
+        "skills": [
+            "SAP"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 37,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-scientist-warszawa,oferta,1003275918",
+        "position": "Data Scientist",
+        "company": "SOMNIUS",
+        "min_salary": 22000,
+        "max_salary": 28000,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "NumPy",
+            "SciPy",
+            "Pandas",
+            "scikit-learn",
+            "XGBoost",
+            "TensorFlow"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 38,
+        "source": "pracuj.pl",
+        "link": "https://pracodawcy.pracuj.pl/company/18798471",
+        "position": "Middle Data Engineer",
+        "company": "Xebia sp. z o.o.",
+        "min_salary": 15000,
+        "max_salary": 31000,
+        "currency": "z\u0142",
+        "skills": [
+            "Databricks",
+            "Snowflake Data Cloud",
+            "Python",
+            "dbt",
+            "Airflow"
+        ],
+        "category": null,
+        "seniority": null
+    },
+    {
+        "id": 39,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/programista-big-data-warszawa-chmielna-132-134,oferta,1003275228",
+        "position": "Programista Big Data",
+        "company": "APLIKACJE KRYTYCZNE sp. z o.o.",
+        "min_salary": 12500,
+        "max_salary": 19000,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Apache Spark",
+            "Hadoop",
+            "SQL",
+            "Kubernetes",
+            "Docker"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 40,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/programista-etl-ab-initio-oracle-krakow,oferta,1003220101",
+        "position": "Programista ETL (Ab Initio, Oracle)",
+        "company": "Prime Engineering Poland",
+        "min_salary": 11000,
+        "max_salary": 22000,
+        "currency": "z\u0142",
+        "skills": [
+            "PL/SQL",
+            "ETL",
+            "Oracle",
+            "SQL"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 41,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/oracle-database-administrator-warszawa-plac-konesera-12,oferta,1003220651",
+        "position": "Oracle Database Administrator",
+        "company": "Raiffeisen Bank International AG (Sp\u00f3\u0142ka Akcyjna) Oddzia\u0142 w Polsce",
+        "min_salary": 18500,
+        "max_salary": 21600,
+        "currency": "z\u0142",
+        "skills": [
+            "Oracle",
+            "PL/SQL",
+            "Linux",
+            "Windows Server"
+        ],
+        "category": "Big Data / Data Science, IT admin",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 42,
+        "source": "pracuj.pl",
+        "link": "https://pracodawcy.pracuj.pl/company/20264419",
+        "position": "Senior SQL Server Administrator",
+        "company": "summ-it s.a.",
+        "min_salary": 13000,
+        "max_salary": 19000,
+        "currency": "z\u0142",
+        "skills": [
+            "Microsoft SQL Server",
+            "T-SQL"
+        ],
+        "category": null,
+        "seniority": null
+    },
+    {
+        "id": 43,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/oracle-data-implementation-consultant-epm-pbcs-krakow,oferta,1003220658",
+        "position": "Oracle Data Implementation Consultant (EPM | PBCS)",
+        "company": "1dea Ko\u015bnik Sp. k.",
+        "min_salary": 140,
+        "max_salary": 155,
+        "currency": "z\u0142",
+        "skills": [
+            "Oracle",
+            "EPM",
+            "PBCS"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 44,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-engineer-azure-warszawa-encyklopedyczna-2a,oferta,1003220251",
+        "position": "Data Engineer (Azure)",
+        "company": "JellyTech",
+        "min_salary": 18000,
+        "max_salary": 23500,
+        "currency": "z\u0142",
+        "skills": [
+            "Python",
+            "Apache Spark",
+            "SQL",
+            "Microsoft Azure"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 45,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-engineer-with-aws-warszawa-encyklopedyczna-2a,oferta,1003220294",
+        "position": "Data Engineer (with AWS)",
+        "company": "JellyTech",
+        "min_salary": 18000,
+        "max_salary": 21000,
+        "currency": "z\u0142",
+        "skills": [
+            "Apache Airflow",
+            "Kafka",
+            "AWS",
+            "ETL",
+            "Python",
+            "SQL",
+            "noSQL",
+            "DWH"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 46,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-engineer-etl-sql-krakow,oferta,1003242901",
+        "position": "Data Engineer ETL, SQL",
+        "company": "Fairfield Consultancy Services Ltd",
+        "min_salary": 175,
+        "max_salary": 175,
+        "currency": "z\u0142",
+        "skills": [
+            "SQL",
+            "Oracle",
+            "Python"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 47,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/data-engineer-krakow-lekarska-1,oferta,1003219246",
+        "position": "Data Engineer",
+        "company": "edrone Sp. z o.o.",
+        "min_salary": 18000,
+        "max_salary": 24000,
+        "currency": "z\u0142",
+        "skills": [
+            "AWS",
+            "RDS",
+            "DynamoDB",
+            "S3",
+            "Lambda",
+            "ECS",
+            "Athena",
+            "Redshift",
+            "Kinesis",
+            "CodeBuild",
+            "DMS",
+            "Python",
+            "SQL"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 48,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/etl-developer-warszawa,oferta,1003218588",
+        "position": "ETL Developer",
+        "company": "Prime Engineering Poland",
+        "min_salary": 15000,
+        "max_salary": 20000,
+        "currency": "z\u0142",
+        "skills": [
+            "SQL",
+            "PL/SQL",
+            "Oracle",
+            "Ab Initio",
+            "DataStage"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    },
+    {
+        "id": 49,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/senior-data-analyst-krakow,oferta,1003240801",
+        "position": "Senior Data Analyst",
+        "company": "INFOGAIN TECHNOLOGIES SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "min_salary": 130,
+        "max_salary": 160,
+        "currency": "z\u0142",
+        "skills": [],
+        "category": "Big Data / Data Science",
+        "seniority": "senior"
+    },
+    {
+        "id": 50,
+        "source": "pracuj.pl",
+        "link": "https://www.pracuj.pl/praca/software-development-engineer-ii-data-fulfillment-krakow-przy-rondzie-4,oferta,1003234736",
+        "position": "Software Development Engineer II - Data (Fulfillment)",
+        "company": "Tesco Technology",
+        "min_salary": 17000,
+        "max_salary": 30000,
+        "currency": "z\u0142",
+        "skills": [
+            "Hadoop",
+            "Scala",
+            "Spark"
+        ],
+        "category": "Big Data / Data Science",
+        "seniority": "mid/regular"
+    }
+]
